@@ -21,7 +21,6 @@ h1 {
   font-size: 72px;
 }
 #about{
-  margin-top:50px;
 }
 .navbar {
 	padding: 0px 0px;
@@ -46,7 +45,8 @@ h1 {
 }
 
 .navbar-default .navbar-brand #last {
-	color:#c3f6da;
+	/*color:#c3f6da;*/
+	color: rgb(127, 127, 127);
 }
 
 .navbar-default .navbar-nav {
@@ -111,15 +111,35 @@ img.bg {
 }
 
 #intro{
+}
+#box1{
     margin-top:100px;
+    background-color:rgb(195,246,218);
+    background-color:rgba(195,246,218, 0.5);
+}
+
+#me {
+    height:250px;
+    width:250px;
+    margin:25px;
+}
+.pic{
+}
+#blurb {
+    position:absolute;
+    vertical-align:middle;
+    text-align:left;
+    /*background-color:rgb(195,246,218);*/
+    /*background-color:rgba(195,246,218, 0.5);*/
+    padding: 5px;
+    margin-top: 100px;
 }
 about {
     font-size: 20px;
-    text-align:right;
+    text-align:left;
     
 }
 
-p { margin: 1em 0; }
 
 
 a         { color: #00a; }
