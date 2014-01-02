@@ -14,7 +14,7 @@ html, body {
   height: 100%
   font-family: 'Lato', sans-serif;
   font-size: small;
-  text-align: center;
+  text-align: left;
 }
 h1 {
   text-transform:uppercase;
@@ -112,8 +112,8 @@ img.bg {
 }
 #box1{
     margin-top:100px;
-    background-color:rgb(195,246,218);
-    background-color:rgba(195,246,218, 0.5);
+    background-color:rgb(255,255,255);
+    background-color:rgba(255,255,255, 0.5);
 }
 
 #me {
@@ -137,13 +137,13 @@ img.bg {
     text-align:left;
 }
 #blueprint{
-    font-size: 50px;
+    font-size: 30px;
     background-color:rgb(195,246,218);
     background-color:rgba(195,246,218, 0.5);
-    margin-left:-18px;
-    margin-right: 20px;
+    margin: 0px 0px 20px -15px;
 }
 #axo{
+    margin: 0px 20px 20px 0px;
     background-color:rgb(247,163,155);
     background-color:rgba(247,163,155, 0.5);
 }
@@ -152,7 +152,7 @@ img.bg {
 
 a         { color: #00a; }
 a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a:visited { color: #00a; }
 
 /*****************************************************************************/
 /*
@@ -220,31 +220,12 @@ a:visited { color: #a0a; }
   color: #aaa;
 }
 
-.footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
-  margin-top: 2em;
-  overflow: hidden;
-}
-
-.footer .contact {
-  float: left;
-  margin-right: 3em;
-}
-
-.footer .contact a {
-  color: #8085C1;
-}
-
-.footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.footer .rss img {
-  border: 0;
+#footer {
+   	/*background-color: rgb(250, 250, 250);*/
+	/*background-color: rgba(250, 250, 250, 0.5);*/
+	text-align:right;
+	/*padding:10px;*/
+	 
 }
 
 /*****************************************************************************/
