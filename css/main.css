@@ -136,7 +136,7 @@ img.bg {
     /*background-color:rgb(255,255,255);*/
     /*background-color:rgba(255,255,255, 0.5);*/
     padding: 5px;
-    margin-top:0px;
+    margin-top:-10px;
     width:80%;
     height:auto;
     margin-right:auto;
@@ -161,18 +161,30 @@ img.bg {
     padding: 5px;
 }
 #bptitle{
-    letter-spacing:-11px;
+    letter-spacing:-4px;
     padding-left:5px;
     font-family: 'Comfortaa', cursive;
-    font-size:167px;
-    margin-top:-40px;
+    font-size:112px;
+    margin-top:-6px;
     text-align:center;
     color:rgb(82,185,233);
-    opacity:.3;
+    opacity:1;
 }
 #bptext{
-    margin-top:-211px;
-    text-align:justify;
+    margin-top:-25px;
+    margin-left:20px;
+    text-align:left;
+    padding:5px;
+    width:60%;
+    height:auto;
+    display:inline-block;
+}
+#pyramid{
+    vertical-align:top;
+    width:30%;
+    height:auto;
+    display:inline-block;
+    margin-left:20px;
 }
 #axo{
     display:inline-block;
