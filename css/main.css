@@ -17,8 +17,7 @@ html, body {
   text-align: left;
 }
 h1 {
-  text-transform:uppercase;
-  font-size: 72px;
+  font-size: 60px;
 }
 .navbar {
 	padding: 0px 0px;
@@ -109,53 +108,64 @@ img.bg {
 }
 
 #intro{
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 150px;
+    background-color:rgb(255,255,255);
+    width:60%;
 }
-#box1{
-    margin:0px, 0px, 0px, 0px;
-    /*background-color:rgb(255,255,255);*/
-    /*background-color:rgba(255,255,255, 0.5);*/
-}
-#mebox {
-    /*background-color:rgb(255,255,255);*/
-    /*background-color:rgba(255,255,255, 0.5);*/
-}
+
 #me {
-    height:250px;
-    width:250px;
-    margin-left:80px;
+    height:auto;
+    width:30%;
+    margin: 20px;
 }
 .pic{
 }
-#blurbcolumn{
-    /*background-color:rgb(255,255,255);*/
-    min-height:10em;
-    display:table-cell;
-    vertical-align:middle; 
+#introtext{
+    width:60%;
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:auto;
+    margin-left:auto;
 }
 #blurb {
     text-align:left;
     /*background-color:rgb(195,246,218);*/
     /*background-color:rgba(195,246,218, 0.5);*/
-    background-color:rgb(255,255,255);
+    /*background-color:rgb(255,255,255);*/
     /*background-color:rgba(255,255,255, 0.5);*/
     padding: 5px;
-    margin-top:100px;
+    margin-top:0px;
+    width:80%;
+    height:auto;
+    margin-right:auto;
+    margin-left:auto;
+}
+#quote{
+    font-family: 'Cookie', cursive;
+    color: rgb(195,246,218);
+    text-align:center;
 }
 #about {
-    margin-top: 20px;
+    margin-top: 50px;
     text-align:left;
 }
 #blueprint{
+    display:inline-block;
     font-size: 30px;
     background-color:rgb(195,246,218);
     background-color:rgba(195,246,218, 0.5);
-    margin: 0px 0px 0px 0px;
+    margin: 0% 2% 0% 5%;
+    width: 55%;
+    padding: 5px;
 }
 #axo{
-    margin: 0px 0px 0px 0px;
+    display:inline-block;
+    margin: 0% 5% 0% 0%;
     background-color:rgb(247,163,155);
     background-color:rgba(247,163,155, 0.5);
+    width:30%;
 }
 
 
