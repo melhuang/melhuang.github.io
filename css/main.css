@@ -193,6 +193,13 @@ img.bg {
     /*background-color:rgba(247,163,155, 0.5);*/
     width:30%;
 }
+#axotitle{
+    font-size:50px;
+    text-align:center;
+}
+#axotext{
+    padding:5px;
+}
 
 
 
