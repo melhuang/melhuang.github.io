@@ -82,7 +82,7 @@ h1 {
   outline: none;
 }
 body { 
-	overflow=x: hidden;
+	overflow-x: hidden;
         font-family: 'Lato', sans-serif; 
         font-weight: 100; 
         font-size: 16px; 
@@ -109,28 +109,38 @@ img.bg {
 }
 
 #intro{
+    margin-top: 150px;
 }
 #box1{
-    margin-top:100px;
-    background-color:rgb(255,255,255);
-    background-color:rgba(255,255,255, 0.5);
+    margin:0px, 0px, 0px, 0px;
+    /*background-color:rgb(255,255,255);*/
+    /*background-color:rgba(255,255,255, 0.5);*/
 }
-
+#mebox {
+    /*background-color:rgb(255,255,255);*/
+    /*background-color:rgba(255,255,255, 0.5);*/
+}
 #me {
     height:250px;
     width:250px;
-    margin:25px;
+    margin-left:80px;
 }
 .pic{
 }
+#blurbcolumn{
+    /*background-color:rgb(255,255,255);*/
+    min-height:10em;
+    display:table-cell;
+    vertical-align:middle; 
+}
 #blurb {
-    position:absolute;
-    vertical-align:middle;
     text-align:left;
     /*background-color:rgb(195,246,218);*/
     /*background-color:rgba(195,246,218, 0.5);*/
+    background-color:rgb(255,255,255);
+    /*background-color:rgba(255,255,255, 0.5);*/
     padding: 5px;
-    margin-top: 100px;
+    margin-top:100px;
 }
 #about {
     margin-top: 20px;
@@ -140,10 +150,10 @@ img.bg {
     font-size: 30px;
     background-color:rgb(195,246,218);
     background-color:rgba(195,246,218, 0.5);
-    margin: 0px 0px 20px -15px;
+    margin: 0px 0px 0px 0px;
 }
 #axo{
-    margin: 0px 20px 20px 0px;
+    margin: 0px 0px 0px 0px;
     background-color:rgb(247,163,155);
     background-color:rgba(247,163,155, 0.5);
 }
