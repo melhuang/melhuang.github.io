@@ -153,18 +153,32 @@ img.bg {
 }
 #blueprint{
     display:inline-block;
-    font-size: 30px;
+    font-size: 16px;
     background-color:rgb(195,246,218);
-    background-color:rgba(195,246,218, 0.5);
+    /*background-color:rgba(195,246,218, 0.5);*/
     margin: 0% 2% 0% 5%;
     width: 55%;
     padding: 5px;
+}
+#bptitle{
+    letter-spacing:-11px;
+    padding-left:5px;
+    font-family: 'Comfortaa', cursive;
+    font-size:167px;
+    margin-top:-40px;
+    text-align:center;
+    color:rgb(82,185,233);
+    opacity:.3;
+}
+#bptext{
+    margin-top:-211px;
+    text-align:justify;
 }
 #axo{
     display:inline-block;
     margin: 0% 5% 0% 0%;
     background-color:rgb(247,163,155);
-    background-color:rgba(247,163,155, 0.5);
+    /*background-color:rgba(247,163,155, 0.5);*/
     width:30%;
 }
 
