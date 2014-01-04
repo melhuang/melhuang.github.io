@@ -151,6 +151,9 @@ img.bg {
     margin-top: 50px;
     text-align:left;
 }
+about > *{
+    vertical-align: top;
+}
 #blueprint{
     display:inline-block;
     font-size: 16px;
@@ -188,18 +191,31 @@ img.bg {
 }
 #axo{
     display:inline-block;
+    vertical-align:top;
     margin: 0% 5% 0% 0%;
-    background-color:rgb(247,163,155);
+    background-color:rgb(245,245,245);
     /*background-color:rgba(247,163,155, 0.5);*/
     width:30%;
 }
 #axotitle{
-    font-size:50px;
+    font-family: 'Belleza', sans-serif;
+    font-size:42px;
+    color: rgb(160, 36, 67);
+    margin-top: 8px;
     text-align:center;
 }
 #axotext{
     padding:5px;
+    margin-left:10px;
 }
+#lyre{
+    position:absolute;
+    width: 100px;
+    margin-top: -18px;
+    margin-left: 276px;
+    opacity:.7;
+}
+
 
 
 
