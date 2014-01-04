@@ -137,7 +137,7 @@ img.bg {
     /*background-color:rgba(255,255,255, 0.5);*/
     padding: 5px;
     margin-top:-10px;
-    width:80%;
+    width:100%;
     height:auto;
     margin-right:auto;
     margin-left:auto;
@@ -148,7 +148,7 @@ img.bg {
     text-align:center;
 }
 #about {
-    margin-top: 50px;
+    margin-top: 100px;
     text-align:left;
 }
 about > *{
@@ -157,28 +157,35 @@ about > *{
 #blueprint{
     display:inline-block;
     font-size: 16px;
-    background-color:rgb(195,246,218);
-    /*background-color:rgba(195,246,218, 0.5);*/
+    background-color:#fafafa;
     margin: 0% 2% 0% 5%;
     width: 55%;
     padding: 5px;
+}
+#paw{
+    position:absolute;
+    width: 34%;
+    opacity:.2;
+    overflow:hidden;
+    clip: rect(0,400, 242, 0);
+    margin-left:-130px;
 }
 #bptitle{
     letter-spacing:-4px;
     padding-left:5px;
     font-family: 'Comfortaa', cursive;
-    font-size:112px;
-    margin-top:-6px;
+    font-size:90px;
+    margin-top:5px;
     text-align:center;
     color:rgb(82,185,233);
     opacity:1;
 }
 #bptext{
-    margin-top:-25px;
+    margin-top:-10px;
     margin-left:20px;
     text-align:left;
     padding:5px;
-    width:60%;
+    width:100%;
     height:auto;
     display:inline-block;
 }
@@ -214,6 +221,9 @@ about > *{
     margin-top: -18px;
     margin-left: 276px;
     opacity:.7;
+}
+#blog{
+    margin-top:100px;
 }
 
 
