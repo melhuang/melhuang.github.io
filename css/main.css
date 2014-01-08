@@ -220,12 +220,30 @@ about > *{
     width: 100px;
     margin-top: -18px;
     margin-left: 276px;
-    opacity:.7;
+    opacity:.6;
 }
 #blog{
     margin-top:100px;
 }
-
+#contact{
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:20px;
+}
+#facebook{
+    width:50px;
+}
+#twitter{
+    width:50px;
+}
+#linkedin{
+    width:50px;
+}
+#copyright{
+    color:#f7a39b;
+    text-shadow: 1px 1px #000;
+    text-align:center;
+}
 
 
 
