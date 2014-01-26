@@ -3,7 +3,7 @@
 /* Common
 /*
 /*****************************************************************************/
-
+ 
 /* Global Reset */
 * {
   margin: 0;
@@ -165,9 +165,9 @@ about > *{
 #paw{
     position:absolute;
     width: 34%;
+    height: auto;
     opacity:.2;
     overflow:hidden;
-    clip: rect(0,400, 242, 0);
     margin-left:-130px;
 }
 #bptitle{
@@ -182,7 +182,6 @@ about > *{
 }
 #bptext{
     margin-top:-10px;
-    margin-left:20px;
     text-align:left;
     padding:5px;
     width:100%;
