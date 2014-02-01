@@ -1,10 +1,8 @@
-console.log("hello");
 window.onload = resizePaw;
+window.onresize = resizePaw;
 function resizePaw() {
     var container = document.getElementById("blueprint");
     var parent = container.clientHeight;
-    console.log("hi");
-    console.log(container);
     var child = document.getElementById("paw");
-    child.style.clip = "rect(0px 1000px " + parent + "px 0px)";
+    child.style.clip = "rect(0px 1000px " + (parent - 5) + "px 0px)";
 }
