@@ -240,13 +240,14 @@ about > *{
     margin-right: auto;
 }
 #piblurb{
-
+    text-align:center
 }
 #pi-known{
     text-align:center
 }
 #pi-unknown{
     color: #aaa;
+    text-align:center
 }
 
 
