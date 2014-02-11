@@ -19,6 +19,9 @@ html, body {
 h1 {
   font-size: 60px;
 }
+h2#bptitle {
+  font-weight: 300px;
+}
 .navbar {
 	padding: 0px 0px;
 	background-color: rgb(250, 250, 250);
