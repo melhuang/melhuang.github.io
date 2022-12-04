@@ -1,0 +1,45 @@
+<article class="py-4">
+  <h3 class="flex items-center text-xl font-semibold">
+    {{ with .Params.externalUrl }}
+      <a
+        class="hover:underline hover:decoration-primary-500 hover:underline-offset-auto text-neutral-800 dark:text-neutral-200"
+        href="{{ . }}"
+        target="_blank"
+        rel="external"
+        >{{ $.Title | emojify }}</a
+      >
+      <span
+        class="-mt-2 text-xs cursor-default text-neutral-400 dark:text-neutral-500"
+        title="{{ i18n "list.externalurl_title" }}"
+      >
+        &#8599;
+      </span>
+    {{ else }}
+      <a
+        class="hover:underline hover:decoration-primary-500 hover:underline-offset-auto text-neutral-800 dark:text-neutral-200"
+        href="{{ .RelPermalink }}"
+        >{{ .Title | emojify }}</a
+      >
+    {{ end }}
+    {{ if and .Draft .Site.Params.article.showDraftLabel }}
+      <div class="ml-2">
+        {{ partial "badge.html" (i18n "article.draft" | emojify) }}
+      </div>
+    {{ end }}
+    {{ if templates.Exists "partials/extend-article-link.html" }}
+      {{ partial "extend-article-link.html" . }}
+    {{ end }}
+  </h3>
+  {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
+    <div class="my-2">
+      {{ if .Description }}
+        {{ .Description | emojify | plainify | htmlUnescape }}
+      {{ else if .Summary }}
+        {{ .Summary | emojify | plainify | htmlUnescape }}
+      {{ end }}
+    </div>
+  {{ end }}
+  <div class="text-sm text-neutral-400 dark:text-neutral-500">
+    {{ partial "article-meta.html" . }}
+  </div>
+</article>
