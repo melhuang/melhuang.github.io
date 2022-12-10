@@ -1,16 +1,9 @@
-baseURL = 'https://melhuang.github.io'
-languageCode = 'en-us'
-title = 'Misfit Manager'
-theme = 'compost'
+baseURL = "http://example.org/"
+disablePathToLower = true
+languageCode = "en-us"
+title = "the misfit manager"
 
-# required
-[build]
-_merge = 'deep'
-
-# required
 [markup]
-_merge = 'deep'
-
-# for better seo
-[minify]
-_merge = 'deep'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
