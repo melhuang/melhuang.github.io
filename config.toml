@@ -1,4 +1,4 @@
-baseURL = "http://melhuang.com/"
+baseURL = "https://melhuang.github.io/"
 disablePathToLower = true
 languageCode = "en-us"
 title = "the misfit manager"
