@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://melhuang.com/"
 disablePathToLower = true
 languageCode = "en-us"
 title = "the misfit manager"
+theme = "ghostwriter"
 
 [markup]
   [markup.goldmark]
