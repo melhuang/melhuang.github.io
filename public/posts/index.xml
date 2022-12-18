@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on the misfit manager</title>
-    <link>http://example.org/posts/</link>
+    <link>https://melhuang.github.io/posts/</link>
     <description>Recent content in Posts on the misfit manager</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Oct 2022 18:37:56 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 18:37:56 +0000</lastBuildDate><atom:link href="https://melhuang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>quit alpha-dogging</title>
-      <link>http://example.org/posts/quit-alpha-dogging/</link>
+      <link>https://melhuang.github.io/posts/quit-alpha-dogging/</link>
       <pubDate>Wed, 26 Oct 2022 18:37:56 +0000</pubDate>
       
-      <guid>http://example.org/posts/quit-alpha-dogging/</guid>
+      <guid>https://melhuang.github.io/posts/quit-alpha-dogging/</guid>
       <description>The scenario:
 A senior-ish IC (Alice) is given a new manager (Bob). Alice is secure in her IC abilities and feels entitled to her place on the team. She doesn’t like Bob as her new manager and concludes that she will not benefit by following his lead. Confident that she will endure no negative consequences, Alice starts alpha-dogging Bob. She openly disregards Bob’s authority – unapologetically skipping meetings and missing deadlines.</description>
     </item>
     
     <item>
       <title>one-handed</title>
-      <link>http://example.org/posts/one-handed/</link>
+      <link>https://melhuang.github.io/posts/one-handed/</link>
       <pubDate>Wed, 12 Oct 2022 19:16:01 +0000</pubDate>
       
-      <guid>http://example.org/posts/one-handed/</guid>
+      <guid>https://melhuang.github.io/posts/one-handed/</guid>
       <description>I couldn’t decide whether to write this with just one hand, or one hand plus an awkward claw of a hand, or speech-to-text with a bunch of inevitable typos. Turns out the least frustrating but goofiest approach is to talk to my computer and clumsily fix typos with my left hand.
 I had a wrist arthroscopy + TFCC repair operation done one week ago. I didn&amp;rsquo;t think much of it beforehand except, knowing that I wouldn’t have a right hand for six weeks, I cleaned my apartment, prepared some meals and took the day off for surgery.</description>
     </item>
     
     <item>
       <title>the burden of positivity</title>
-      <link>http://example.org/posts/the-burden-of-positivity/</link>
+      <link>https://melhuang.github.io/posts/the-burden-of-positivity/</link>
       <pubDate>Wed, 24 Aug 2022 03:39:15 +0000</pubDate>
       
-      <guid>http://example.org/posts/the-burden-of-positivity/</guid>
+      <guid>https://melhuang.github.io/posts/the-burden-of-positivity/</guid>
       <description>Let’s not pretend like we don’t bitch about our jobs. We are pros at finding fault with our managers, our projects, our flaky test suites. We all wish something could be better. At LinkedIn, people complained about the free (and objectively very good) food, which management loved because it implied people weren’t complaining about elements of the actual job.
 As humans, we’re really good at being negative, because it’s the easiest thing to do.</description>
     </item>
     
     <item>
       <title>betting on myself</title>
-      <link>http://example.org/posts/betting-on-myself/</link>
+      <link>https://melhuang.github.io/posts/betting-on-myself/</link>
       <pubDate>Wed, 13 Jul 2022 15:52:08 +0000</pubDate>
       
-      <guid>http://example.org/posts/betting-on-myself/</guid>
+      <guid>https://melhuang.github.io/posts/betting-on-myself/</guid>
       <description>And that pesky little voice that used to constantly tell me I was a fraud, that I couldn’t code, that I couldn’t lead?</description>
     </item>
     
     <item>
       <title>summit recap</title>
-      <link>http://example.org/posts/summit-recap/</link>
+      <link>https://melhuang.github.io/posts/summit-recap/</link>
       <pubDate>Fri, 17 Jun 2022 05:04:30 +0000</pubDate>
       
-      <guid>http://example.org/posts/summit-recap/</guid>
+      <guid>https://melhuang.github.io/posts/summit-recap/</guid>
       <description>First “post”-pandemic professional event! Sapphire Ventures was kind enough to host the Hypergrowth Eng Summit event yesterday. I arrived with no expectations, lightly armed with a notebook and a sweater in case it got cold. I left with a hunger for more in-person events, new perspectives on how to do my job better and a feeling of community among engineering leaders. Overall the event was a smoothly-run schedule of insightful talks and panels on diverse topics by some of the industry’s best-known names, adorned with high-quality food and wine.</description>
     </item>
     
     <item>
       <title>life&#39;s emergency brake</title>
-      <link>http://example.org/posts/lifes-emergency-brake/</link>
+      <link>https://melhuang.github.io/posts/lifes-emergency-brake/</link>
       <pubDate>Wed, 25 May 2022 14:21:58 +0000</pubDate>
       
-      <guid>http://example.org/posts/lifes-emergency-brake/</guid>
+      <guid>https://melhuang.github.io/posts/lifes-emergency-brake/</guid>
       <description>Ironically, I work at a mental health company but I’m really bad at prioritizing my own mental health. Life’s been going at a blistering pace for the last four months since my return to San Francisco in January. I’ve been training hard for this upcoming marathon, spending every waking moment with friends and kicking off work projects left and right, leaving no time to myself.Similarly to why I don’t take rest days during training, I rarely take time off from work.</description>
     </item>
     
     <item>
       <title>the marathon manager</title>
-      <link>http://example.org/posts/the-marathon-manager/</link>
+      <link>https://melhuang.github.io/posts/the-marathon-manager/</link>
       <pubDate>Thu, 21 Apr 2022 20:59:16 +0000</pubDate>
       
-      <guid>http://example.org/posts/the-marathon-manager/</guid>
+      <guid>https://melhuang.github.io/posts/the-marathon-manager/</guid>
       <description>I run about 50 miles each week. These miles span everything from squeezing in miles over lunch, meeting my friends at 6am to run in the Marin Headlands and interval training that helps me adjust to running faster without feeling like I’m dying. I’m typically home by 8:30am for a quick shower and food inhalation before/during my first meeting.
 Staying healthy and sane during this training cycle also requires making time for supporting activities — strength with pilates, cross-training with bike rides and beers with friends.</description>
     </item>
     
     <item>
       <title>one year of calm</title>
-      <link>http://example.org/posts/one-year-of-calm/</link>
+      <link>https://melhuang.github.io/posts/one-year-of-calm/</link>
       <pubDate>Wed, 02 Mar 2022 19:46:30 +0000</pubDate>
       
-      <guid>http://example.org/posts/one-year-of-calm/</guid>
+      <guid>https://melhuang.github.io/posts/one-year-of-calm/</guid>
       <description>Happy first Calmversary to me! I am revisiting where I was one year ago and where I am today.
 I joined Calm for reasons that after a year, continue to hold true.
 I deeply care about mental health. Back in 2016, I was going through a period of extreme anxiety and couldn’t sleep for weeks. I tried everything, but it wasn’t until a friend suggested the 7 Days of Calm that I slept through the night.</description>
@@ -87,38 +87,38 @@ I deeply care about mental health. Back in 2016, I was going through a period of
     
     <item>
       <title>why do managers complain about reviews?</title>
-      <link>http://example.org/posts/why-do-managers-complain-about-reviews/</link>
+      <link>https://melhuang.github.io/posts/why-do-managers-complain-about-reviews/</link>
       <pubDate>Tue, 08 Feb 2022 17:48:13 +0000</pubDate>
       
-      <guid>http://example.org/posts/why-do-managers-complain-about-reviews/</guid>
+      <guid>https://melhuang.github.io/posts/why-do-managers-complain-about-reviews/</guid>
       <description>Everyone, ICs and managers alike, complains about review season because it’s more work on top of an already busy schedule. Personally, I have to be in a particular mood to write, just like I have to be in a focused mindset to code. When I’m spent at the end of a meeting-full day, it’s near impossible to be in the right mindspace; as a result, I almost always write my reviews over the weekend for me, when it’s a guaranteed ping-free day.</description>
     </item>
     
     <item>
       <title>farewell, imposter syndrome</title>
-      <link>http://example.org/posts/farewell-imposter-syndrome/</link>
+      <link>https://melhuang.github.io/posts/farewell-imposter-syndrome/</link>
       <pubDate>Thu, 27 Jan 2022 17:18:12 +0000</pubDate>
       
-      <guid>http://example.org/posts/farewell-imposter-syndrome/</guid>
+      <guid>https://melhuang.github.io/posts/farewell-imposter-syndrome/</guid>
       <description>When I started taking Computer Science classes in high school, I loved how everything was so logical and fit nicely into my uber-pragmatic way of thinking. But my dad was pretty adamant that girls don’t code and I stupidly believed him and chose not to pursue it in college. Luckily for me, my floormate was taking Intro to Computer Science first semester and I thought oh, she’s a girl and she’s coding!</description>
     </item>
     
     <item>
       <title>ode to code</title>
-      <link>http://example.org/posts/ode-to-code/</link>
+      <link>https://melhuang.github.io/posts/ode-to-code/</link>
       <pubDate>Tue, 14 Dec 2021 15:25:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/ode-to-code/</guid>
+      <guid>https://melhuang.github.io/posts/ode-to-code/</guid>
       <description>Every single day before I became an engineering manager, all I wanted to do was become one. In this dream role, I would have agency to make the right decisions for the team instead of squawking about everything that could be better. I’m currently three years into the manager role that I desperately wanted to achieve, ample time to fairly assess each role in its own right.
 Reminiscing on being an individual contributor is likened to adults wistfully recounting their youthful days.</description>
     </item>
     
     <item>
       <title>i’m lonely</title>
-      <link>http://example.org/posts/im-lonely/</link>
+      <link>https://melhuang.github.io/posts/im-lonely/</link>
       <pubDate>Tue, 07 Dec 2021 14:23:48 +0000</pubDate>
       
-      <guid>http://example.org/posts/im-lonely/</guid>
+      <guid>https://melhuang.github.io/posts/im-lonely/</guid>
       <description>Before you click away, don’t worry, it’s not contagious. In fact, you’re probably lonely too.
 But I am not talking about the greater cosmic loneliness problem that is occurring as we dive deeper into online connections. I’m professionally lonely.
 As a manager, I’m a contractually obligated secret keeper. People tell me things that are legally risky to share; as an extreme example, building a termination case. It would be seriously problematic if I still went around telling everyone every new piece of information I learned.</description>
@@ -126,10 +126,10 @@ As a manager, I’m a contractually obligated secret keeper. People tell me thin
     
     <item>
       <title>be nice to your manager</title>
-      <link>http://example.org/posts/be-nice-to-your-manager/</link>
+      <link>https://melhuang.github.io/posts/be-nice-to-your-manager/</link>
       <pubDate>Tue, 02 Nov 2021 14:53:23 +0000</pubDate>
       
-      <guid>http://example.org/posts/be-nice-to-your-manager/</guid>
+      <guid>https://melhuang.github.io/posts/be-nice-to-your-manager/</guid>
       <description>I exercise extensive friendliness to my colleagues and friends. I never say no to a coworker who needs a favor and I’m the single millennial keeping USPS in business with snail mail birthday cards. It’s a notable part of my professional identity. In fact, my bio has been “chipper californian” ever since Internet bios have been around.
 my twitter bio
 But recently, as I was sympathizing with a friend as she talked through the strife between her and her manager, I realized this behavior was missing from one crucial professional relationship - that with my managers, past and present.</description>
@@ -137,19 +137,19 @@ But recently, as I was sympathizing with a friend as she talked through the stri
     
     <item>
       <title>intro</title>
-      <link>http://example.org/posts/intro/</link>
+      <link>https://melhuang.github.io/posts/intro/</link>
       <pubDate>Tue, 26 Oct 2021 13:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/intro/</guid>
+      <guid>https://melhuang.github.io/posts/intro/</guid>
       <description>Unlike many of my peers, I am blatantly unorganized, overly friendly at work, unconventionally frank, and someone who once crashed into a LinkedIn VP on one of those hoverboards that we later learned spontaneously catches on fire.</description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://example.org/posts/about/</link>
+      <link>https://melhuang.github.io/posts/about/</link>
       <pubDate>Mon, 25 Oct 2021 02:18:19 +0000</pubDate>
       
-      <guid>http://example.org/posts/about/</guid>
+      <guid>https://melhuang.github.io/posts/about/</guid>
       <description>melissa is typically found frolicking outside</description>
     </item>
     

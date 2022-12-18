@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on the misfit manager</title>
-    <link>http://example.org/tags/</link>
+    <link>https://melhuang.github.io/tags/</link>
     <description>Recent content in Tags on the misfit manager</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jul 2022 15:52:08 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 15:52:08 +0000</lastBuildDate><atom:link href="https://melhuang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>engineering management</title>
-      <link>http://example.org/tags/engineering-management/</link>
+      <link>https://melhuang.github.io/tags/engineering-management/</link>
       <pubDate>Wed, 13 Jul 2022 15:52:08 +0000</pubDate>
       
-      <guid>http://example.org/tags/engineering-management/</guid>
+      <guid>https://melhuang.github.io/tags/engineering-management/</guid>
       <description></description>
     </item>
     
