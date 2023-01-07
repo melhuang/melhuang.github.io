@@ -2,7 +2,7 @@
 date = 2022-03-02T19:46:30Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/2022/03/jasper-lake.jpeg"
+image = "/images/jasper-lake.jpeg"
 slug = "one-year-of-calm"
 title = "one year of calm"
 

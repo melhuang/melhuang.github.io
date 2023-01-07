@@ -2,7 +2,7 @@
 date = 2022-04-21T20:59:16Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/2022/04/terrible-and-wonderful.png"
+image = "/images/terrible-and-wonderful.png"
 slug = "the-marathon-manager"
 title = "the marathon manager"
 
@@ -21,7 +21,7 @@ Staying healthy and sane during this training cycle also requires making time fo
 
 Let’s hope I can keep it together for the next 7 weeks (I am hoping to [qualify for Boston](https://www.baa.org/races/boston-marathon/qualify), literally never thought I’d say that out loud!), so my coworkers can have a break from me behaving like a frenetic hamster.
 
-{{< figure src="__GHOST_URL__/content/images/2022/04/pic.png" caption="not a bad way to start a Tuesday" >}}
+{{< figure src="/images/pic.png" caption="not a bad way to start a Tuesday" >}}
 
 
 

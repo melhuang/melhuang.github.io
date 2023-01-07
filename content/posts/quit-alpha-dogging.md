@@ -2,7 +2,7 @@
 date = 2022-10-26T18:37:56Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/2022/10/dilbert.gif"
+image = "/images/dilbert.gif"
 slug = "quit-alpha-dogging"
 title = "quit alpha-dogging"
 

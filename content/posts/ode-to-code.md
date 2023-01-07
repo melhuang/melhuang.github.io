@@ -2,7 +2,7 @@
 date = 2021-12-14T15:25:00Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/2021/12/compiling.png"
+image = "/images/compiling.png"
 slug = "ode-to-code"
 title = "ode to code"
 

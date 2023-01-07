@@ -2,7 +2,7 @@
 date = 2022-02-08T17:48:13Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/2022/02/perf_review.png"
+image = "/images/perf_review.png"
 slug = "why-do-managers-complain-about-reviews"
 title = "why do managers complain about reviews?"
 

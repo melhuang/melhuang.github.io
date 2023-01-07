@@ -3,7 +3,7 @@ categories = ["engineering management"]
 date = 2022-07-13T15:52:08Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/2022/07/shasta.jpeg"
+image = "/images/shasta.jpeg"
 slug = "betting-on-myself"
 summary = "And that pesky little voice that used to constantly tell me I was a fraud, that I couldn’t code, that I couldn’t lead?"
 tags = ["engineering management"]
@@ -12,7 +12,7 @@ title = "betting on myself"
 +++
 
 
-During a recent Office Hours session for Elpha, someone asked about my [recent take on imposter syndrome](__GHOST_URL__/ghost/#/editor/post/61f1e28632ee20004844bbe1). My little soliloquy made it seem like the unwelcome feeling vanished overnight, but that’s far from the case. Upon further reflection, it was actually little to do with external factors like positive performance reviews, but rather a shift in my own mindset.When I joined Strava in 2017, I met a community of coworkers who strived, both in and out of the office. These brilliant people I worked with could also run sub-5 minute miles and some ran marathons… before work.
+During a recent Office Hours session for Elpha, someone asked about my [recent take on imposter syndrome](/posts/farewell-imposter-syndrome). My little soliloquy made it seem like the unwelcome feeling vanished overnight, but that’s far from the case. Upon further reflection, it was actually little to do with external factors like positive performance reviews, but rather a shift in my own mindset.When I joined Strava in 2017, I met a community of coworkers who strived, both in and out of the office. These brilliant people I worked with could also run sub-5 minute miles and some ran marathons… before work.
 
 A smaller group of us new to Strava were by no means fast runners, but we were determined to participate in this buzz of energy. We established a weekly routine of meeting at 5:40am on Tuesdays in the Marin Headlands to get in a [2-hour, very hilly trail run](https://www.strava.com/activities/1771563764) before our 9am (in person!) meetings. These mornings were painful: feeling nauseous if we didn’t sleep well, enduring freezing temperatures in the winter, lungs and legs burning because we were literally running up a mountain. But we kept showing up week after week for each other, building grit together and proving to ourselves we could do it. In the office, this same group attacked work with the same determination that got us out of bed at 5am – leading large projects, presenting in front of the company and taking on more and more responsibility.
 

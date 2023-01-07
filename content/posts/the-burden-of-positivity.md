@@ -2,7 +2,7 @@
 date = 2022-08-24T03:39:15Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/2022/08/youre-being-a-negative-nancy-stop-it.gif"
+image = "/images/youre-being-a-negative-nancy-stop-it.gif"
 slug = "the-burden-of-positivity"
 title = "the burden of positivity"
 

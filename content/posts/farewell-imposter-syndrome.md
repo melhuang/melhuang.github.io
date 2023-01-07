@@ -2,7 +2,7 @@
 date = 2022-01-27T17:18:12Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/2022/01/lion.png"
+image = "/images/lion.png"
 slug = "farewell-imposter-syndrome"
 title = "farewell, imposter syndrome"
 

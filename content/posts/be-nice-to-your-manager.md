@@ -2,7 +2,7 @@
 date = 2021-11-02T14:53:23Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/2021/11/fish-are-friends.jpeg"
+image = "/images/fish-are-friends.jpeg"
 slug = "be-nice-to-your-manager"
 title = "be nice to your manager"
 
@@ -13,7 +13,7 @@ I exercise extensive friendliness to my colleagues and friends. I never say no t
 
 
 
-{{< figure src="__GHOST_URL__/content/images/2021/11/image.png" caption="my twitter bio" >}}
+{{< figure src="/images/image.png" caption="my twitter bio" >}}
 
 
 
@@ -23,7 +23,7 @@ But recently, as I was sympathizing with a friend as she talked through the stri
 
 In the software engineering industry, it is too easy to feel entitled to our positions - that we are doing everyone around us a favor by choosing to work at our companies. Attrition is expensive, good talent is hard to come by and many of us believe that we are the carriers of exceptional quality. Because we hold this threat of leaving, we expect our managers to recognize and reward our accomplishments, to constantly shower us in accolades.
 
-{{< figure src="__GHOST_URL__/content/images/2021/11/entitlement.png" >}}
+{{< figure src="/images/entitlement.png" >}}
 
 On top of that, cross-functional teams’ requests, company initiatives and hiring processes are simultaneously pulling a manager in fifteen different directions. And if they are doing their job well, we employees will be shielded from that chaos. Because this is happening unbeknownst to us, it can appear that our manager is full of free time and should be tending to our needs, many of which are out of their control or we never even communicated. And if not, then we place on them the burden of disappointment and subsequently label our poor manager, who cannot read minds, as insufficient. In essence, by setting unrealistic expectations, especially considering that we are not their singular focus, we dehumanize them by creating this image of unachievable perfection that is guaranteed to result in their failure.
 

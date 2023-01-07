@@ -18,7 +18,7 @@ Why didn’t I just take time off? Maybe I think I'm really self-important and c
 
 I’m fine now, which is to say my brain is my own again and I can stick this log of an arm in a sling and go outside. Now to test the limits of speech-to-text software as we enter this performance review cycle.
 
-{{< figure src="__GHOST_URL__/content/images/2022/10/log_arm.png" caption="as seen on Zoom" >}}
+{{< figure src="/images/log_arm.png" caption="as seen on Zoom" >}}
 
 
 

@@ -2,7 +2,7 @@
 date = 2022-06-17T05:04:30Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/2022/06/sapphire-1.png"
+image = "/images/sapphire-1.png"
 slug = "summit-recap"
 title = "summit recap"
 
