@@ -8,7 +8,6 @@ title = "summit recap"
 
 +++
 
-
 First “post”-pandemic professional event! Sapphire Ventures was kind enough to host the [Hypergrowth Eng Summit](https://events.sapphireventures.com/engsummitnomination) event yesterday. I arrived with no expectations, lightly armed with a notebook and a sweater in case it got cold. I left with a hunger for more in-person events, new perspectives on how to do my job better and a feeling of community among engineering leaders. Overall the event was a smoothly-run schedule of insightful talks and panels on diverse topics by some of the industry’s best-known names, adorned with high-quality food and wine.
 
 I would have taken more pictures if I hadn’t been completely engrossed in scribbling sound bites into my notebook. The talks were a thoughtfully-curated blend of relevant commentary and advice on engineering organizational problems and more deeply technical concepts (i.e. assessing multi-cloud).
@@ -19,13 +18,8 @@ However, as Dave calls out, there is a strong correlation between anxiety and th
 
 Other talks I particularly enjoyed (honestly all the talks were fantastic):
 
-* Preeti Kaur on why being an eng leader is so hard and all the problems we have to deal with, or more professionally: Consistency, Accuracy, Performance:  Essential Elements for a Sound Technical Strategy
-* Tramale Turner on staying technically relevant as you climb the ladder: hint, stop caring what other people think, also maybe take an Engineerication
-* Kim Lewandowski on security in the supply chain e.g. maybe don’t blindly install and deploy to production packages you found off the Internet.
+- Preeti Kaur on why being an eng leader is so hard and all the problems we have to deal with, or more professionally: Consistency, Accuracy, Performance: Essential Elements for a Sound Technical Strategy.
+- Tramale Turner on staying technically relevant as you climb the ladder: hint, stop caring what other people think, also maybe take an Engineerication.
+- Kim Lewandowski on security in the supply chain e.g. maybe don’t blindly install and deploy to production packages you found off the Internet.
 
 I loved the representation of women in the speaker lineup, though the event populace skewed more male than expected. It was great to chat with folks in engineering leadership and hands-down there is no way to recreate that experience on Zoom. Thanks for hosting, Sapphire Ventures!
-
-
-
-
-

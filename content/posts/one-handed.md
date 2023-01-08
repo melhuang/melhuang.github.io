@@ -7,7 +7,6 @@ title = "one-handed"
 
 +++
 
-
 I couldn’t decide whether to write this with just one hand, or one hand plus an awkward claw of a hand, or speech-to-text with a bunch of inevitable typos. Turns out the least frustrating but goofiest approach is to talk to my computer and clumsily fix typos with my left hand.
 
 I had a wrist arthroscopy + TFCC repair operation done one week ago. I didn't think much of it beforehand except, knowing that I wouldn’t have a right hand for six weeks, I cleaned my apartment, prepared some meals and took the day off for surgery. I gave work a heads up.
@@ -18,7 +17,4 @@ Why didn’t I just take time off? Maybe I think I'm really self-important and c
 
 I’m fine now, which is to say my brain is my own again and I can stick this log of an arm in a sling and go outside. Now to test the limits of speech-to-text software as we enter this performance review cycle.
 
-{{< figure src="/images/log_arm.png" caption="as seen on Zoom" >}}
-
-
-
+{{< figure src="/images/log_arm.png" caption="as seen on Zoom" align="center" >}}

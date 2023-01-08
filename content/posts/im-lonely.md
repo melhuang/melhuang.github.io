@@ -3,13 +3,12 @@ categories = ["engineering management"]
 date = 2021-12-07T14:23:48Z
 description = ""
 draft = false
-image = "/images/.jpg"
+image = "/images/bigger-mountain-1.jpg"
 slug = "im-lonely"
 tags = ["engineering management"]
 title = "i’m lonely"
 
 +++
-
 
 Before you click away, don’t worry, it’s not contagious. In fact, you’re probably lonely too.
 
@@ -26,6 +25,3 @@ I refuse to believe that we have to bury those trust-filled intimate connections
 One of my favorite meetings is a biweekly gathering of frontline engineering managers whose problem sets look similar to mine. Here, since we share the same purview, we are free to air our grievances in a setting that is appropriate for discussing sensitive topics. It’s true that misery loves company.
 
 And in my case, I’m supremely lucky to have a best friend who is also a software engineering manager. The ability to share our professional woes and wins alongside those of our personal lives is core to my ability to maintain conviction in this career path.
-
-
-
