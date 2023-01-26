@@ -2,7 +2,7 @@
 date = 2023-01-26T00:29:14Z
 description = ""
 draft = false
-image = "/images/peru.jpg"
+image = "/images/peru.png"
 slug = "a-girls-girl-in-a-mans-world"
 title = "a girl's girl in a man's world"
 
