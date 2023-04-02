@@ -1,7 +1,12 @@
+#outer_subscribe {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
 #mc_embed_signup {
-  display: inline-block;
   margin: 0 auto;
-  width: 50%;
+  width: 100%;
 }
 
 #mc_embed_signup input[type="email"] {
@@ -9,6 +14,7 @@
   border-radius: 4px 0 0 4px;
   border: 1px solid #186218;
   padding: 10px;
+  padding-right: 75px;
   border-right-width: 0;
   display: inline-block;
   margin-right: -5px;
