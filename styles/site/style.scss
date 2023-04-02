@@ -381,7 +381,7 @@ table {
 
 .post-navigation {
     display: table;
-    margin: 70px auto 100px;
+    margin: 70px auto 70px;
 }
 
 .newer-posts,
@@ -427,7 +427,7 @@ table {
         padding: 20px 5px;
 
         &:hover {
-            background: #f5fcf9;
+            background: #fcf8f5;
             color: $primary;
             padding: 20px 12px;
 
@@ -470,6 +470,7 @@ table {
     display: block;
     padding: 8px 11px;
 }
+
 
 /* ============================================================ */
 /* Author */
