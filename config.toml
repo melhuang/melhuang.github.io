@@ -8,3 +8,13 @@ theme = "ghostwriter"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[[menu.main]]
+name = "Posts"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/pages/about"
+weight = 2
