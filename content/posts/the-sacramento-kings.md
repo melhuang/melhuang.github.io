@@ -4,7 +4,7 @@ description = ""
 draft = false
 image = "/images/kings.jpeg"
 slug = "the-sacramento-kings"
-title = "the sacramento kings 🥲"
+title = "the sacramento kings"
 
 +++
 
