@@ -3,6 +3,7 @@ date = 2023-05-19T08:45:38Z
 description = ""
 draft = false
 image = "/images/crazy.png"
+linkTitle = "embrace the crazy"
 slug = "embrace-the-crazy"
 title = "embrace the crazy"
 
