@@ -3,7 +3,6 @@ disablePathToLower = true
 languageCode = "en-us"
 title = "the misfit manager"
 theme = "ghostwriter"
-opengraph = true
 
 [markup]
   [markup.goldmark]
