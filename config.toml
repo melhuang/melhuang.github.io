@@ -20,4 +20,4 @@ url = "/pages/about"
 weight = 2
 
 [[Analytics]]
-googleAnalytics = "G-3YJ9SZ6HYY"
+googleAnalyticsID = "G-3YJ9SZ6HYY"
