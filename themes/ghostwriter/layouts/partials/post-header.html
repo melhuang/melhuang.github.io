@@ -1,0 +1,11 @@
+<header class="post-header">
+    <p class="post-title" itemprop="name headline">{{ .Title }}</p>
+    {{ if .Description }}
+        <p class="post-description" itemprop="description">{{ .Description }}</p>
+    {{ end }}
+    <p class="post-date">
+        <span><time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">{{ dateFormat (default "Mon, Jan 2, 2006" .Site.Params.dateFormat) .Date }}</time></span>
+    </p>
+    {{ if .Site.Params.readingTime }}
+    {{ end }}
+</header>
