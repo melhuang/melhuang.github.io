@@ -1,6 +1,6 @@
 +++
 date = 2023-06-01T09:29:14Z
-description = "I’m forced to consider my own morals and values while observing others live out theirs."
+description = ""
 draft = false
 image = "/images/books.png"
 slug = "reading-books"

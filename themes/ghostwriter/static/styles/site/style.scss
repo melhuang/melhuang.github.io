@@ -70,7 +70,7 @@ blockquote {
 
 img {
     display: block;
-    margin: 40px 0;
+    margin: auto;
     width: auto;
     max-width: 100%;
 
@@ -317,7 +317,7 @@ table {
         border-bottom: 1px dotted $secondary;
         content: "";
         display: block;
-        margin: 40px auto 0;
+        margin: auto;
         width: 100px;
     }
 }
