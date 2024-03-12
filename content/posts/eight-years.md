@@ -8,11 +8,9 @@ title = "eight years"
 
 +++
 
-The last couple months, people have been telling me my LinkedIn profile picture doesn’t look like me. I was surprised to hear it; I’m reluctant to give up my youth. 
+The last couple months, people have been telling me my LinkedIn profile picture doesn’t look like me. I refused to hear it; I’m reluctant to give up my youth. Nevertheless, I stumbled upon a new headshot last week. When I look at the two side-by-side, I do in fact see two different people.
 
-I got a new headshot last week, and when I look at the two side-by-side, I see two different people. The 2016 Melissa is someone whom I look back at fondly. That person had a very low opinion of herself. She was unconfident in her own intellect, in her professional belonging. Being unhappy with oneself was a painful place to be.
-
-When I look back at the picture, I see someone who tried to dress nicer to compensate for feeling intellectually inferior. She thought that other software engineers possessed a level of intellect that was fundamentally unachievable for herself. She stayed in her comfort zone for fear of failing in unknown territory. Just the phrase “distributed systems” would have the little iOS engineer running for the hills. 
+When I look back at 2016 Melissa, I see someone had a very low opinion of herself. She was unconfident in her professional belonging due to feeling intellectually inferior. She thought that other software engineers possessed a level of intellect that was fundamentally unachievable for herself. She stayed in her comfort zone for fear of failing in unknown territory. Just the phrase “distributed systems” would have the little iOS engineer running for the hills. It was a painful place to be. 
 
 When she became a manager, it was deeply uncomfortable managing web and backend engineers. How could she have any clout if she still didn’t know what Kubernetes was? She just nodded along when they explained concepts she didn’t understand. For years, she somehow obtained externally perceived success in her career while thinking Cassandra was just the name of one of her good friends, but felt like a fraud knowing there was a gaping hole in her knowledge.
 

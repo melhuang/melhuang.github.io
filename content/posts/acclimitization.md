@@ -1,6 +1,6 @@
 +++
 title = "acclimitization"
-description = "As someone who enjoys climbing both mountains and career ladders, I have come to respect the benefits of acclimatization."
+description = ""
 author = ""
 date = 2023-06-19T17:53:36-07:00
 tags = []
