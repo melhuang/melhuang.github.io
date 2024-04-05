@@ -8,9 +8,6 @@ title = "ode to code"
 
 +++
 
-
-### 
-
 Every single day before I became an engineering manager, all I wanted to do was become one. In this dream role, I would have agency to make the right decisions for the team instead of squawking about everything that could be better. I’m currently three years into the manager role that I desperately wanted to achieve, ample time to fairly assess each role in its own right.
 
 Reminiscing on being an individual contributor is likened to adults wistfully recounting their youthful days. For a second, I close my eyes amidst the Slack messages from cross-functional department leads. I take a break from planning the roadmap, planning the project, planning the offsite, planning sprint planning. I let myself dream of the life of no plans, of plans being put in front of me. 
