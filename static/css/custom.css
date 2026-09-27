@@ -1,0 +1,8 @@
+/* Cap the featured header image so it doesn't render gigantic.
+   max-width + max-height with auto dimensions preserves aspect ratio. */
+.post-content img.post-featured-image {
+    max-width: 560px;
+    max-height: 560px;
+    width: auto;
+    height: auto;
+}
